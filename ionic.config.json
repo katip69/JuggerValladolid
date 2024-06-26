@@ -1,0 +1,7 @@
+{
+  "name": "Pagina_jugger_valladolid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
