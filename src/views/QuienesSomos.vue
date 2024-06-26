@@ -1,6 +1,6 @@
 <template>
     <ion-page>
-        <ion-content class="ion-padding" :fullscreen="true">
+        <ion-content  :fullscreen="true">
             <p>HHHh</p>
             <ion-item> Hola</ion-item>
             <ion-item> Hola 2</ion-item>
@@ -15,5 +15,6 @@
 </script>
 
 <style>
+
 
 </style>
