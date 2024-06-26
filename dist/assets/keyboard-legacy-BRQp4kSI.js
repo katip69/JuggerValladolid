@@ -1,4 +1,4 @@
-System.register(["./index-legacy-BQz-JEWU.js"],(function(e,n){"use strict";var i;return{setters:[function(e){i=e.w}],execute:function(){
+System.register(["./index-legacy-Cp_BHD_c.js"],(function(e,n){"use strict";var i;return{setters:[function(e){i=e.w}],execute:function(){
 /*!
              * (C) Ionic http://ionicframework.com - MIT License
              */
