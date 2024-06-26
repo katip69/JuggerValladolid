@@ -5,7 +5,7 @@
         <ion-card-content class="ion-padding">
           <ion-row class="ion-align-items-center" >
         <ion-col style="display: flex; justify-content:center">
-          <ion-img style="width: 50%;" src="src/Imagenes/Primera.jpg"></ion-img>
+          <ion-img style="width: 50%;" :src="Primera"></ion-img>
         </ion-col>
         <ion-col>
           <ion-item class="ion-text-start" lines="none" style="width: 100%;">
@@ -24,6 +24,7 @@
 
 <script setup>
 import { IonContent, IonPage, IonItem,IonRow,IonLabel,IonTitle,IonCol,IonImg,IonFooter,IonCard,IonCardContent} from '@ionic/vue';
+import Primera from '@/Imagenes/Primera.jpg';
 </script>
 
 <style scoped>
